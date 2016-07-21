@@ -1,0 +1,3 @@
+[ 2016-07-18T13:20:10+08:00 ] 127.0.0.1 /shop/index.php
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Home/View\Index\index.html"  on line 26 "{list}" unknown tag "list"
+

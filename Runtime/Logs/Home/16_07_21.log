@@ -1,0 +1,27 @@
+[ 2016-07-21T09:14:39+08:00 ] ::1 /shop/index.php
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Home/View\Index\index.html"  on line 26 "{list}" unknown tag "list"
+
+[ 2016-07-21T09:15:04+08:00 ] ::1 /shop/index.php
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Home/View\Index\index.html"  on line 26 "{list}" unknown tag "list"
+
+[ 2016-07-21T11:04:33+08:00 ] ::1 /shop/
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Home/View\Index\index.html"  on line 26 "{list}" unknown tag "list"
+
+[ 2016-07-21T11:05:24+08:00 ] ::1 /shop/
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Home/View\Index\index.html"  on line 26 "{list}" unknown tag "list"
+
+[ 2016-07-21T14:41:06+08:00 ] ::1 /shop/index.php/Home/register
+ERR: 无法加载控制器:Register
+
+[ 2016-07-21T14:41:26+08:00 ] ::1 /shop/index.php/Home/register
+ERR: 无法加载控制器:Register
+
+[ 2016-07-21T14:43:24+08:00 ] ::1 /shop/index.php/Home/User/register
+ERR: Think\Controller:add方法不存在！
+
+[ 2016-07-21T14:44:37+08:00 ] ::1 /shop/index.php/Home/User/index.html
+ERR: 非法操作:index
+
+[ 2016-07-21T15:31:29+08:00 ] ::1 /shop/index.php/Home/User/register
+ERR: Think\Controller:getError方法不存在！
+

@@ -1,0 +1,85 @@
+[ 2016-07-14T15:24:45+08:00 ] ::1 /shop/index.php/Home/Goods/showlist
+ERR: 1146:Table 'tp.tp_' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `tp_` 
+
+[ 2016-07-14T16:00:34+08:00 ] ::1 /shop/index.php/Home/Goods/showlist
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Home/View\Goods\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2016-07-14T16:00:35+08:00 ] ::1 /shop/index.php/Home/Goods/showlist
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Home/View\Goods\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2016-07-14T16:01:08+08:00 ] ::1 /shop/index.php/Home/Goods/css/mine.css
+ERR: 非法操作:css
+
+[ 2016-07-14T16:03:08+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:03:08+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:03:08+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:03:09+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:03:09+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:03:09+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:03:09+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:03:09+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:03:10+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:05:08+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:05:08+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:05:09+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:05:09+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:05:09+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:08:02+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:08:02+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:08:02+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:08:03+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:08:25+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:08:26+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:08:26+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:08:26+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:08:26+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+
+[ 2016-07-14T16:08:27+08:00 ] ::1 /shop/index.php/Home/Goods/mine.css
+ERR: 非法操作:mine.css
+

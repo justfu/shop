@@ -1,0 +1,261 @@
+[ 2016-07-15T10:07:08+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 14 "{list}" unknown tag "list"
+
+[ 2016-07-15T10:07:12+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 14 "{list}" unknown tag "list"
+
+[ 2016-07-15T11:59:38+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 71 "&lt;/html&gt;" unclosed {foreach} tag
+
+[ 2016-07-15T11:59:52+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 71 "&lt;/html&gt;" unclosed {foreach} tag
+
+[ 2016-07-15T11:59:53+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 71 "&lt;/html&gt;" unclosed {foreach} tag
+
+[ 2016-07-15T11:59:53+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 71 "&lt;/html&gt;" unclosed {foreach} tag
+
+[ 2016-07-15T11:59:53+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 71 "&lt;/html&gt;" unclosed {foreach} tag
+
+[ 2016-07-15T11:59:53+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 71 "&lt;/html&gt;" unclosed {foreach} tag
+
+[ 2016-07-15T12:00:20+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 61 "{foreach}" missing "from" attribute
+
+[ 2016-07-15T12:00:20+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 61 "{foreach}" missing "from" attribute
+
+[ 2016-07-15T12:00:20+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 61 "{foreach}" missing "from" attribute
+
+[ 2016-07-15T12:00:20+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 61 "{foreach}" missing "from" attribute
+
+[ 2016-07-15T12:00:21+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 61 "{foreach}" missing "from" attribute
+
+[ 2016-07-15T12:00:27+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 61 "{foreach}" missing "from" attribute
+
+[ 2016-07-15T12:00:27+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 61 "{foreach}" missing "from" attribute
+
+[ 2016-07-15T12:00:27+08:00 ] ::1 /shop/index.php/Admin/Goods/show
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Goods\show.html"  on line 61 "{foreach}" missing "from" attribute
+
+[ 2016-07-15T12:04:15+08:00 ] ::1 /shop/index.php/Admin/Goods/__MODULE__/Goods/add
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:33:37+08:00 ] ::1 /shop/index.php/Admin/admin/%3C?php%20echo%20ADMIN_CSS_URL;?%3EUser_Login.css
+ERR: 非法操作:
+
+[ 2016-07-15T14:33:37+08:00 ] ::1 /shop/index.php/Admin/admin/%3C?php%20echo%20ADMIN_IMG_URL?%3Eadmin.png
+ERR: 非法操作:
+
+[ 2016-07-15T14:33:37+08:00 ] ::1 /shop/index.php/Admin/admin/%3C?php%20echo%20ADMIN_IMG_URL?%3Euser_botton.gif
+ERR: 非法操作:
+
+[ 2016-07-15T14:33:43+08:00 ] ::1 /shop/index.php/Admin/admin/index
+ERR: 非法操作:index
+
+[ 2016-07-15T14:33:49+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/left.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2016-07-15T14:33:49+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/right.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2016-07-15T14:33:49+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/head.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2016-07-15T14:34:31+08:00 ] ::1 /shop/index.php/Admin/Index/index
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\index.html"  on line 12 "&lt;frame name=head src=&quot;{$smarty.const.__CONTROLLER__/head.html&quot; frameborder=0 noresize scrolling=no&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:34:41+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/left.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2016-07-15T14:34:41+08:00 ] ::1 /shop/index.php/Admin/Index/__CONTROLLER__/right.html
+ERR: 非法操作:__CONTROLLER__
+
+[ 2016-07-15T14:34:41+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Eheader_left.jpg
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:41+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:41+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Eheader_right.jpg
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:41+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Eheader_bg.jpg
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:59+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;?%3Eadmin_p.gif
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:59+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_CSS_URL;?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:59+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Eheader_left.jpg
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:59+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Eheader_right.jpg
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:59+08:00 ] ::1 /shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-07-15T14:34:59+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;?%3Emenu_icon.gif
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:59+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:59+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL?%3Eheader_bg.jpg
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:59+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;?%3Emenu_icon.gif
+ERR: 非法操作:
+
+[ 2016-07-15T14:34:59+08:00 ] ::1 /shop/index.php/Admin/Index/%3C?php
+ERR: 非法操作:
+
+[ 2016-07-15T14:37:31+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 9 "background=&quot;{smarty.const.ADMIN_IMG_URL}header_bg.jpg&quot; border=0&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:37:31+08:00 ] ::1 /shop/index.php/Admin/Index/right.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\right.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:37:31+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:38:03+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 9 "background=&quot;{smarty.const.ADMIN_IMG_URL}header_bg.jpg&quot; border=0&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:38:03+08:00 ] ::1 /shop/index.php/Admin/Index/right.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\right.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:38:03+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:38:03+08:00 ] ::1 /shop/index.php/Admin/Index/right.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\right.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:38:03+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:38:03+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:12+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:12+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:12+08:00 ] ::1 /shop/index.php/Admin/Index/right.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\right.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:12+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 9 "background=&quot;{smarty.const.ADMIN_IMG_URL}header_bg.jpg&quot; border=0&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:12+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:12+08:00 ] ::1 /shop/index.php/Admin/Index/right.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\right.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:12+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 9 "background=&quot;{smarty.const.ADMIN_IMG_URL}header_bg.jpg&quot; border=0&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:12+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:12+08:00 ] ::1 /shop/index.php/Admin/Index/right.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\right.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:13+08:00 ] ::1 /shop/index.php/Admin/Index/right.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\right.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:13+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 9 "background=&quot;{smarty.const.ADMIN_IMG_URL}header_bg.jpg&quot; border=0&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:13+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:13+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 9 "background=&quot;{smarty.const.ADMIN_IMG_URL}header_bg.jpg&quot; border=0&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:13+08:00 ] ::1 /shop/index.php/Admin/Index/right.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\right.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:13+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:13+08:00 ] ::1 /shop/index.php/Admin/Index/right.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\right.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:13+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:40:13+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 9 "background=&quot;{smarty.const.ADMIN_IMG_URL}header_bg.jpg&quot; border=0&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:41:03+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 21 "src=&quot;{smarty.const.ADMIN_IMG_URL}header_right.jpg&quot; width=268&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:41:03+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:41:04+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 21 "src=&quot;{smarty.const.ADMIN_IMG_URL}header_right.jpg&quot; width=268&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:41:04+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:41:04+08:00 ] ::1 /shop/index.php/Admin/Index/head.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\head.html"  on line 21 "src=&quot;{smarty.const.ADMIN_IMG_URL}header_right.jpg&quot; width=268&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:41:04+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:41:23+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:41:23+08:00 ] ::1 /shop/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Index\left.html"  on line 5 "&lt;link href=&quot;{smarty.const.ADMIN_CSS_URL}admin.css&quot; type=&quot;text/css&quot; rel=&quot;stylesheet&quot; /&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-07-15T14:42:57+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:42:58+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:42:58+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:44:04+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:44:04+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:44:05+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:44:55+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:44:55+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:44:56+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:44:56+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
+[ 2016-07-15T14:44:56+08:00 ] ::1 /shop/index.php/Admin/Index/__MODULE__/Goods/show.html
+ERR: 非法操作:__MODULE__
+
