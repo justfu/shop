@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.6, created on 2016-07-15 14:41:23
+<?php /* Smarty version Smarty-3.1.6, created on 2016-07-24 17:16:15
          compiled from "E:/xampp/htdocs/shop/Admin/View\Index\head.html" */ ?>
 <?php /*%%SmartyHeaderCode:1247457888401910ff8-75077899%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '817aa49817f6eb40e86b943a98cffa6539edcf1c' => 
     array (
       0 => 'E:/xampp/htdocs/shop/Admin/View\\Index\\head.html',
-      1 => 1468564881,
+      1 => 1469351774,
       2 => 'file',
     ),
   ),
@@ -39,7 +39,8 @@ header_left.jpg"
                                                         href="" 
                                                         target=main>修改口令</a> &nbsp;&nbsp; <a style="color: #fff" 
                                                         onclick="if (confirm('确定要退出吗？')) return true; else return false;" 
-                                                        href="" target=_top>退出系统</a> 
+                                                        href="<?php echo @__MODULE__;?>
+/Admin/login" target=_top>退出系统</a>
                 </td>
                 <td align=right width=268><img height=56 
                                                src="<?php echo @ADMIN_IMG_URL;?>

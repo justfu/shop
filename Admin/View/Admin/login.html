@@ -25,19 +25,21 @@
                         <ul>
                             <li class="user_main_text">用户名： </li>
                             <li class="user_main_input">
-                                <input class="TxtUserNameCssClass" id="admin_user" maxlength="20" name="admin_user"> </li></ul>
+                                <input class="TxtUserNameCssClass" id="admin_user" maxlength="20" name="username"> </li></ul>
                         <ul>
                             <li class="user_main_text">密&nbsp;&nbsp;&nbsp;&nbsp;码： </li>
                             <li class="user_main_input">
-                                <input class="TxtPasswordCssClass" id="admin_psd" name="admin_psd" type="password">
+                                <input class="TxtPasswordCssClass" id="admin_psd" name="password" type="password">
                             </li>
+                            <li class="user_main_text" style="color:red;">{$userinfoerror|default:''} </li>
                         </ul>
                         <ul>
                             <li class="user_main_text">验证码： </li>
                             <li class="user_main_input">
                                 <input class="TxtValidateCodeCssClass" id="captcha" name="captcha" type="text">
-                                <img src="{$smarty.const.ADMIN_IMG_URL}admin.png"  alt="" />
+                                <img src="{$smarty.const.__CONTROLLER__}/verifyImg"  onclick="this.src='{$smarty.const.__CONTROLLER__}/verifyImg/'+Math.random()" alt="" />
                             </li>
+                            <li style="color:red;z-index:10100">{$ve_error|default:''}</li>
                         </ul>
                     </div>
                 </li>

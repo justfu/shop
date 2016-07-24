@@ -1,31 +1,30 @@
-<?php /* Smarty version Smarty-3.1.6, created on 2016-07-23 16:59:22
-         compiled from "E:/xampp/htdocs/shop/Admin/View\Goods\show.html" */ ?>
-<?php /*%%SmartyHeaderCode:6107578748d462daf6-89814663%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /* Smarty version Smarty-3.1.6, created on 2016-07-22 17:58:40
+         compiled from "E:/xampp/htdocs/shop/Admin/View\Goods\SHOW.html" */ ?>
+<?php /*%%SmartyHeaderCode:270605791e58a524c25-40830657%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
-    'd51472ff0bb95b8877b803ed2de0e031700392a4' => 
+    '4fef39b55d518f27acf7dd53957168b74d9e6301' => 
     array (
-      0 => 'E:/xampp/htdocs/shop/Admin/View\\Goods\\show.html',
-      1 => 1469264357,
+      0 => 'E:/xampp/htdocs/shop/Admin/View\\Goods\\SHOW.html',
+      1 => 1469181509,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '6107578748d462daf6-89814663',
+  'nocache_hash' => '270605791e58a524c25-40830657',
   'function' => 
   array (
   ),
   'version' => 'Smarty-3.1.6',
-  'unifunc' => 'content_578748d468b70',
+  'unifunc' => 'content_5791e58a5c4ed',
   'variables' => 
   array (
     'info' => 0,
     'v' => 0,
-    'nav' => 0,
   ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_578748d468b70')) {function content_578748d468b70($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include 'E:\\xampp\\htdocs\\ThinkPHP\\Library\\Vendor\\Smarty\\plugins\\modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_5791e58a5c4ed')) {function content_5791e58a5c4ed($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include 'E:\\xampp\\htdocs\\ThinkPHP\\Library\\Vendor\\Smarty\\plugins\\modifier.date_format.php';
 ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
     <head>
@@ -112,8 +111,7 @@ $_smarty_tpl->tpl_vars['v']->_loop = true;
                     <?php } ?>
                     <tr>
                         <td colspan="20" style="text-align: center;">
-                            <?php echo $_smarty_tpl->tpl_vars['nav']->value;?>
-
+                            [1]
                         </td>
                     </tr>
                 </tbody>

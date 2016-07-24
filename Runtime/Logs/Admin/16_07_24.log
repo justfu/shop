@@ -1,0 +1,33 @@
+[ 2016-07-24T17:07:15+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-24T17:08:01+08:00 ] ::1 /shop/index.php/Admin/admin
+ERR: 非法操作:index
+
+[ 2016-07-24T17:49:39+08:00 ] ::1 /shop/index.php/Admin/Admin/login
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Admin\login.html"  on line 34 "&lt;li class=&quot;user_main_text&quot;&gt;{$smarty.userinfoerror|default ''} &lt;/li&gt;" $smarty.userinfoerror is invalid
+
+[ 2016-07-24T17:49:41+08:00 ] ::1 /shop/index.php/Admin/Admin/login
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Admin\login.html"  on line 34 "&lt;li class=&quot;user_main_text&quot;&gt;{$smarty.userinfoerror|default ''} &lt;/li&gt;" $smarty.userinfoerror is invalid
+
+[ 2016-07-24T17:49:41+08:00 ] ::1 /shop/index.php/Admin/Admin/login
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Admin\login.html"  on line 34 "&lt;li class=&quot;user_main_text&quot;&gt;{$smarty.userinfoerror|default ''} &lt;/li&gt;" $smarty.userinfoerror is invalid
+
+[ 2016-07-24T17:50:24+08:00 ] ::1 /shop/index.php/Admin/Admin/login
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Admin\login.html"  on line 34 "&lt;li class=&quot;user_main_text&quot;&gt;{$smarty.userinfoerror|default ''} &lt;/li&gt;" $smarty.userinfoerror is invalid
+
+[ 2016-07-24T17:50:24+08:00 ] ::1 /shop/index.php/Admin/Admin/login
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Admin\login.html"  on line 34 "&lt;li class=&quot;user_main_text&quot;&gt;{$userinfoerror|default ''} &lt;/li&gt;" too many shorthand attributes
+
+[ 2016-07-24T17:50:25+08:00 ] ::1 /shop/index.php/Admin/Admin/login
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Admin\login.html"  on line 34 "&lt;li class=&quot;user_main_text&quot;&gt;{$userinfoerror|default ''} &lt;/li&gt;" too many shorthand attributes
+
+[ 2016-07-24T17:50:25+08:00 ] ::1 /shop/index.php/Admin/Admin/login
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Admin\login.html"  on line 34 "&lt;li class=&quot;user_main_text&quot;&gt;{$userinfoerror|default ''} &lt;/li&gt;" too many shorthand attributes
+
+[ 2016-07-24T17:50:25+08:00 ] ::1 /shop/index.php/Admin/Admin/login
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Admin\login.html"  on line 34 "&lt;li class=&quot;user_main_text&quot;&gt;{$userinfoerror|default ''} &lt;/li&gt;" too many shorthand attributes
+
+[ 2016-07-24T17:50:25+08:00 ] ::1 /shop/index.php/Admin/Admin/login
+ERR: Syntax Error in template "E:/xampp/htdocs/shop/Admin/View\Admin\login.html"  on line 34 "&lt;li class=&quot;user_main_text&quot;&gt;{$userinfoerror|default ''} &lt;/li&gt;" too many shorthand attributes
+

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.6, created on 2016-07-21 09:17:15
+<?php /* Smarty version Smarty-3.1.6, created on 2016-07-24 18:00:59
          compiled from "E:/xampp/htdocs/shop/Admin/View\Admin\login.html" */ ?>
 <?php /*%%SmartyHeaderCode:21685578883c1676512-22434222%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'bf7b33b95a3220859d131f9d59e65b989589236f' => 
     array (
       0 => 'E:/xampp/htdocs/shop/Admin/View\\Admin\\login.html',
-      1 => 1469063834,
+      1 => 1469354457,
       2 => 'file',
     ),
   ),
@@ -17,6 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'version' => 'Smarty-3.1.6',
   'unifunc' => 'content_578883c16ad01',
+  'variables' => 
+  array (
+    'userinfoerror' => 0,
+    've_error' => 0,
+  ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_578883c16ad01')) {function content_578883c16ad01($_smarty_tpl) {?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -47,20 +52,25 @@ User_Login.css" type="text/css" rel="stylesheet" />
                         <ul>
                             <li class="user_main_text">用户名： </li>
                             <li class="user_main_input">
-                                <input class="TxtUserNameCssClass" id="admin_user" maxlength="20" name="admin_user"> </li></ul>
+                                <input class="TxtUserNameCssClass" id="admin_user" maxlength="20" name="username"> </li></ul>
                         <ul>
                             <li class="user_main_text">密&nbsp;&nbsp;&nbsp;&nbsp;码： </li>
                             <li class="user_main_input">
-                                <input class="TxtPasswordCssClass" id="admin_psd" name="admin_psd" type="password">
+                                <input class="TxtPasswordCssClass" id="admin_psd" name="password" type="password">
                             </li>
+                            <li class="user_main_text" style="color:red;"><?php echo (($tmp = @$_smarty_tpl->tpl_vars['userinfoerror']->value)===null||$tmp==='' ? '' : $tmp);?>
+ </li>
                         </ul>
                         <ul>
                             <li class="user_main_text">验证码： </li>
                             <li class="user_main_input">
                                 <input class="TxtValidateCodeCssClass" id="captcha" name="captcha" type="text">
-                                <img src="<?php echo @ADMIN_IMG_URL;?>
-admin.png"  alt="" />
+                                <img src="<?php echo @__CONTROLLER__;?>
+/verifyImg"  onclick="this.src='<?php echo @__CONTROLLER__;?>
+/verifyImg/'+Math.random()" alt="" />
                             </li>
+                            <li style="color:red;z-index:10100"><?php echo (($tmp = @$_smarty_tpl->tpl_vars['ve_error']->value)===null||$tmp==='' ? '' : $tmp);?>
+</li>
                         </ul>
                     </div>
                 </li>

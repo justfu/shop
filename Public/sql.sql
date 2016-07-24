@@ -23,3 +23,21 @@ u_qq varchar(11) comment '用户的QQ号',
 u_tel varchar(11) comment '用户的联系方式',
 u_xueli varchar(11) comment '用户的学历'
 )charset utf8 engine=myisam;
+
+
+-- 蠕虫插入数据
+insert into tp_goods(g_name,g_count,g_price,g_img) select g_name,g_count,g_price,g_img from tp_goods;
+
+-- 插入管理员数据
+insert into tp_admin values (null,'admin',md5('admin'),10);
+
+-- 添加权限表
+create table tp_auth(
+a_id int unsigned not null auto_increment primary key,
+a_name varchar(20) not null comment '权限名称',
+a_pid SMALLINT(6) unsigned not null comment '父类id',
+a_c varchar(32) not null DEFAULT '' comment '控制器',
+a_a varchar(32) not null DEFAULT '' comment '操作方法',
+a_path varchar(32) not null comment '全路径',
+a_level tinyint(4) not null DEFAULT 0 comment '级别'
+)charset utf8 auto_increment =1;

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.6, created on 2016-07-15 14:42:38
+<?php /* Smarty version Smarty-3.1.6, created on 2016-07-24 21:57:49
          compiled from "E:/xampp/htdocs/shop/Admin/View\Index\right.html" */ ?>
 <?php /*%%SmartyHeaderCode:26442578884138de544-24404753%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'ac4a9f2374162a744ef2c372e387bb52b8d2249c' => 
     array (
       0 => 'E:/xampp/htdocs/shop/Admin/View\\Index\\right.html',
-      1 => 1468564956,
+      1 => 1469368648,
       2 => 'file',
     ),
   ),
@@ -48,7 +48,8 @@ admin_p.gif"
                         <tr>
                             <td>当前时间：2008-12-27 17:03:55</td></tr>
                         <tr>
-                            <td style="font-weight: bold; font-size: 16px">admin</td></tr>
+                            <td style="font-weight: bold; font-size: 16px"><?php echo $_SESSION['admin_name'];?>
+</td></tr>
                         <tr>
                             <td>欢迎进入网站管理中心！</td></tr></table></td></tr>
             <tr>

@@ -1,0 +1,63 @@
+[ 2016-07-22T14:19:08+08:00 ] ::1 /shop/index.php/Admin/User/login
+ERR: 无法加载控制器:User
+
+[ 2016-07-22T14:59:19+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T14:59:56+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T15:00:40+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T15:01:19+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T15:01:21+08:00 ] ::1 /shop/index.php/Admin/Goods/__CONTROLLER__/show
+ERR: 非法操作:__CONTROLLER__
+
+[ 2016-07-22T15:01:23+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T15:01:24+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T15:01:24+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T15:22:26+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T15:24:08+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T16:55:37+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T17:18:41+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T17:21:04+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T17:21:07+08:00 ] ::1 /shop/index.php/Admin/Goods/%3C?php%20echo%20ADMIN_CSS_URL;?%3Emine.css
+ERR: 非法操作:
+
+[ 2016-07-22T17:50:37+08:00 ] ::1 /shop/index.php/Admin/Goodsdelete
+ERR: 无法加载控制器:Goodsdelete
+
+[ 2016-07-22T17:50:44+08:00 ] ::1 /shop/index.php/Admin/Goodsdelete
+ERR: 无法加载控制器:Goodsdelete
+
+[ 2016-07-22T17:51:02+08:00 ] ::1 /shop/index.php/Admin/Goodsdelete
+ERR: 无法加载控制器:Goodsdelete
+
+[ 2016-07-22T17:51:05+08:00 ] ::1 /shop/index.php/Admin/Goods/delete
+ERR: 参数错误或者未定义:id
+
+[ 2016-07-22T17:53:02+08:00 ] ::1 /shop/index.php/Admin/Goods/dete
+ERR: 非法操作:dete
+
+[ 2016-07-22T17:53:07+08:00 ] ::1 /shop/index.php/Admin/Goods/delete
+ERR: 参数错误或者未定义:id
+

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.6, created on 2016-07-21 09:46:13
+<?php /* Smarty version Smarty-3.1.6, created on 2016-07-24 17:07:14
          compiled from "E:/xampp/htdocs/shop/Admin/View\Goods\add.html" */ ?>
 <?php /*%%SmartyHeaderCode:13762579025b2435c75-92881916%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '6ebc2fc440cc4326d2a6960263769d3ed7392b28' => 
     array (
       0 => 'E:/xampp/htdocs/shop/Admin/View\\Goods\\add.html',
-      1 => 1469065568,
+      1 => 1469069250,
       2 => 'file',
     ),
   ),
@@ -48,7 +48,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         <div style="font-size: 13px;margin: 10px 5px">
             <form action="<?php echo @__SELF__;?>
 " method="post" enctype="multipart/form-data">
-            <table border="1" width="100%" class="table_a">
+
+                <table border="1" width="100%" class="table_a">
                 <tr>
                     <td>商品名称</td>
                     <td><input type="text" name="g_name" /></td>

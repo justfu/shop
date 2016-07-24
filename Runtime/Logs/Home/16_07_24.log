@@ -1,0 +1,4 @@
+[ 2016-07-24T17:06:03+08:00 ] ::1 /shop/index.php/Home/User/register
+ERR: 1146:Table 'tp.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
